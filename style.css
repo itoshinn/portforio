@@ -193,6 +193,6 @@ a{
 @media(max-width:670px){
     
     .wr{
-        display:block;
+        display:inline;
     }
 }
