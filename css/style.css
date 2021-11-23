@@ -186,11 +186,3 @@ a{
     box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .3);
     padding:15px;
 }
-@media(min-width:767px){
-    
-    .wr{
-        display:flex;
-        justify-content:space-around;
-        padding-top:60px;
-    }
-}
