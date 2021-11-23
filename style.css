@@ -175,10 +175,7 @@ a{
 #achivement{
     padding-bottom:100px;
 }
-.wr{
-    display:flex;
-    justify-content:space-around;
-}
+
 .wr{
     padding-top:60px;
 }
@@ -190,9 +187,10 @@ a{
     box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .3);
     padding:15px;
 }
-@media(max-width:670px){
+@media(min-width:1000px){
     
     .wr{
-        display:inline;
+        display:flex;
+        justify-content:space-around;
     }
 }
