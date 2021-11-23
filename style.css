@@ -190,3 +190,11 @@ a{
     box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .3);
     padding:15px;
 }
+@media(max-width:670px){
+    .aaa{
+        min-height:10vh;
+    }
+    .wr{
+        display:block;
+    }
+}
